@@ -10,15 +10,10 @@ set nocompatible
 
 
 "编码配置
- 
 set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
-
 set termencoding=utf-8
-
 set encoding=utf-8
-
 set fileencodings=ucs-bom,utf-8,cp936
-
 set fileencoding=utf-8
 
 
